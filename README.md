@@ -1,7 +1,3 @@
-# Medium-Premium
-Read Medium Premium Articles for Free 📚✨
-
-
 # Read Medium Premium Articles for Free 📚✨
 
 As a budding blogger on Medium, I've quickly realized that access to premium content is essential for improving my writing and staying informed. However, the cost of a Medium membership can be prohibitively expensive, especially for those of us in India, where paying ₹4000 to ₹12000 annually for a subscription might not be feasible for everyone. 💸😢
