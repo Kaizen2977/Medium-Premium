@@ -30,6 +30,8 @@ javascript:(function(){
     }
 })();
 ```
+- DM me if this code in not working Discord id ==> Kaizen#0236. 🔄💻
+
 ### 3. Save the Bookmark and Reboot Your System:
 - This step ensures that the changes take effect properly. 🔄💻
 
